@@ -1,11 +1,13 @@
-.htaccess
-/config.php
-admin/config.php
+upload/.htaccess
+upload/config.php
+upload/admin/config.php
 
 !index.html
 
-download/
-image/data/
-image/cache/
-system/cache/
-system/logs/
+upload/download/
+upload/image/data/
+upload/image/cache/
+upload/system/cache/
+upload/system/logs/
+/LICENSE
+/README.md
