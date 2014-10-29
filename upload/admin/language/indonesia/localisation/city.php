@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']		= 'Kecamatan';
+$_['heading_title']		= 'Kota';
 
 // Text
-$_['text_success']      = 'Sukses: Anda berhasil memodifikasi Kecamatan!';
-$_['text_list']         = 'Daftar Kecamatan';
-$_['text_add']          = 'Tambah Kecamatan';
-$_['text_edit']         = 'Ubah Kecamatan';
-$_['text_all']          = '-- Pilih Semua --';
+$_['text_success']    = 'Sukses: Anda berhasil memodifikasi kota!';
+$_['text_list']       = 'Daftar Kota';
+$_['text_add']        = 'Tambah Kota';
+$_['text_edit']       = 'Ubah Kota';
+$_['text_all']        = '-- Pilih Semua --';
 
 // Column
-$_['column_name']		= 'Nama Kecamatan';
-$_['column_zone']		= 'Kab / Kota';
+$_['column_name']     = 'Nama Kota';
+$_['column_zone']     = 'Provinsi';
 $_['column_status']		= 'Status';
-$_['column_action']		= 'TIndakan';
+$_['column_action']		= 'Tindakan';
 
 // Entry
-$_['entry_name']		= 'Nama Kecamatan';
-$_['entry_country']		= 'Provinsi';
-$_['entry_zone']		= 'Kab / Kota';
-$_['entry_status']		= 'Status';
+$_['entry_name']      = 'Nama Kota';
+$_['entry_country']		= 'Negara';
+$_['entry_zone']      = 'Provinsi';
+$_['entry_status']    = 'Status';
 
 // Error
-$_['error_permission']	= 'Peringatan: Kamu tidak memiliki akses untuk memodifikasi kecamatan!';
-$_['error_name']		= 'Nama kecamatan harus terdiri minimal dari 3 sampai maksimal 128 karakter!';
+$_['error_permission']= 'Peringatan: Kamu tidak memiliki akses untuk memodifikasi kota!';
+$_['error_name']      = 'Nama kota harus terdiri dari 3 sampai 128 karakter!';
