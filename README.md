@@ -21,11 +21,11 @@ Features
 * Search/filter Cities from backend
 * Standalone cities database related from zones
 * With vQmod
-	- Add new menu from System > Localisation > Cities
+	- Add new menu for manage cities from System > Localisation > Cities
 	- Change all city `input` to `select`, e.g register form
-	- If you're using my database, you must rename language Country>Province, Zone>City, City>Region. with `rename-localisation.xml` file
+	- Estimate Shipping & Taxes in Shopping Cart page with City
 * Multilanguage. Included English and Indonesia
-* Provinces, Regions, and Cities sql database for Indonesia, contact me for other countries.
+* Zones and Cities sql database for Indonesia, contact me for other countries.
 	
 DEMO
 ----
